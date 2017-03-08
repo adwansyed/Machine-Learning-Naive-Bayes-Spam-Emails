@@ -1,6 +1,9 @@
 # Machine Learning w/ JavaFX
 <h2>Application: Naive Bayes Spam Filtering</h2>
 
+<h4>Screenshot:</h4>
+![spamdetection](https://cloud.githubusercontent.com/assets/1751112/23724118/9ed4e94c-0419-11e7-8a0c-5b9446b02fa9.PNG)
+
 <h4>Pull: </h4>
     * https://github.com/adwansyed/SpamDetection-with-Machine-Learning.git
     
